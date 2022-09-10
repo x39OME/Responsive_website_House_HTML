@@ -257,11 +257,11 @@ color: var(--secondary-color);
 .services .services-content .image::before {
   content: "";
   background: transparent;
-  width: 100% ;
+  width: 80% ;
   height: calc(100% + 100px);
   top: -50px;
   position: absolute;
-  right: 0;
+  right: 40px;
   z-index: -1;
   box-shadow: 
   2px 2px 10px var(--secondary-color),
