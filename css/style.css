@@ -426,7 +426,6 @@ color: var(--secondary-color);
 /* Start Contact */
 .contact {
   padding-top: var(--section-padding);
-  padding-bottom: var(--section-padding);
   background-color: var(--section-background);
 }
 .contact .info {
